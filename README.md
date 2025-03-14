@@ -3,9 +3,12 @@
 🔍 Specialized in Web & Network Penetration Testing | Security Assessments | Ethical Hacking <br>
 💻 Experienced in Python, Java, C++, JavaScript, and Bash Scripting <br>
 📚 Constant Learner – Exploring AI/ML for Cybersecurity & Big Data Analytics <br>
-🎯 Focused on building secure, scalable, and high-performance applications <br>
+🎯 Focused on building secure, scalable, and high-performance applications <br><br>
+
+
 
 🔍 I am actively seeking training opportunities across various technical fields to expand my knowledge and skills. As a dedicated student and researcher, I have gained a strong foundation in diverse technologies and am always eager to embrace new learning opportunities. My passion for technology drives me to continually enhance my expertise while sharing insights and collaborating with others.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/karimsalim236) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karimsalim___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karim--salim) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Karimsalim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KarimSalim4k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karimsalim33000@gmail.com) 
